@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoTiX452
-- 👀 I’m interested in Python/HTML & CSS/C++
-- 🌱 I’m currently learning Python/HTML & CSS/C++
+- 👀 I’m interested in Python/HTML & CSS/C++/JavaScript/Game Development
+- 🌱 I’m currently learning Python/HTML & CSS/C++/JavaScript
 - 💞️ I’m looking to collaborate on everything so I can learn
 - 📫 How to reach me? Send me a message or @NoTiX#5669 on Discord
 
